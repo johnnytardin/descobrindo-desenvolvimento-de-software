@@ -1,2 +1,3 @@
 # descobrindo-desenvolvimento-de-software
-Pretendo com essa série de posts apresentar de forma divertida para pessoas que às vezes tiveram pouco ou nenhum contato desenvolvimento de software em diversas linguagens.  Resolvendo problemas simples para quem sabe assim, estimular novos desenvolvedores.
+Pretendo com essa série de posts apresentar de forma divertida desenvolvimento de software para pessoas que tiveram pouco ou nenhum contato em diversas linguagens diferentes. 
+Resolvendo problemas simples para quem sabe assim, estimular novos desenvolvedores.
