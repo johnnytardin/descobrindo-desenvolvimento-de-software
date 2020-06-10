@@ -4,6 +4,9 @@ Resolvendo problemas simples para quem sabe assim, estimular a formação de nov
 
 Os códigos estão no reposítório https://github.com/johnnytardin/descobrindo-desenvolvimento-de-software
 
+
 Github: https://github.com/johnnytardin
+
 Linkedin: https://www.linkedin.com/in/johnnytardin
+
 Instagram: https://www.instagram.com/johnnytardin
